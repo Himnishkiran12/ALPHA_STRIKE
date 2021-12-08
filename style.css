@@ -1,0 +1,9 @@
+body {
+    background-color: maroon;
+}
+
+#family_member_image {
+    border-width: 40px;
+    border: navy;
+    border-style: solid;
+}
